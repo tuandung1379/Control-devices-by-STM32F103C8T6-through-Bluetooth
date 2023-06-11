@@ -1,4 +1,4 @@
-# Control-the-device-by-STM32F103C8T6-through-Bluetooth
+# Control-devices-by-STM32F103C8T6-through-Bluetooth
 
 Lập trình cho vi điều khiển STM32F103C8T6 thực hiện nhận lệnh từ phần mềm điện thoại
 
